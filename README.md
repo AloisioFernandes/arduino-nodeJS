@@ -15,7 +15,7 @@
 Acesse e clone o repositório do projeto ou use o comando abaixo na pasta onde deseja baixar o projeto:
 - git clone https://github.com/AloisioFernandes/arduinoWeb.git
 
-## Segundo passo - upload do arquivo para arduino
+## Segundo passo - fazer upload do arquivo para arduino
 Abra a pasta arduino-ldr e faça upload do arquivo arduinoLDR.ino para sua placa arduino. A porta analógica utilizada é A2, se estiver utilizando uma porta diferente, altere a linha 1 do código.
 
 ## Terceiro passo - instalar dependências
