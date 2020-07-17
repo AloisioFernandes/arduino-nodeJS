@@ -16,7 +16,7 @@ Baixe o repositório do projeto acima ou use o seguinte comando na pasta onde de
 - git clone https://github.com/AloisioFernandes/arduino-nodejs.git
 
 ## Segundo passo - fazer upload do arquivo para arduino
-Abra a pasta arduino-ldr e faça upload do arquivo arduinoLDR.ino para sua placa arduino. A porta analógica utilizada é A2, se estiver utilizando uma porta diferente, altere a linha 1 do código.
+Abra a pasta arduino-ldr e faça upload do arquivo arduinoLDR.ino para sua placa arduino. A porta analógica utilizada é A2, se estiver utilizando uma porta diferente altere a linha 1 do código.
 
 ## Terceiro passo - instalar dependências
 Dentro da pasta arduino-web e digite o comando:
