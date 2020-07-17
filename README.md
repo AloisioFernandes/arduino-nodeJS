@@ -12,7 +12,7 @@
     https://nodejs.org/en/
 
 ## Primeiro passo - baixar projeto
-Acesse e clone o repositório do projeto ou use o comando abaixo na pasta onde deseja baixar o projeto:
+Acesse https://github.com/AloisioFernandes/arduino-nodejs e clone o repositório do projeto ou use o comando abaixo na pasta onde deseja baixar o projeto:
 - git clone https://github.com/AloisioFernandes/arduinoWeb.git
 
 ## Segundo passo - fazer upload do arquivo para arduino
