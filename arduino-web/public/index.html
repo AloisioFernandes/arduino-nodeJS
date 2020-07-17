@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arduino Node.js</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        Arduino LDR
+    </header>
+    <div id="info">
+        <h1>Luminosidade: </h1>
+        <span id="num">
+            <h2 id="estado">Desconectado</h2>
+        </span>
+        <div id="hora">
+            <img src="dia.png" id="image"> 
+            <h3 id="diaNoite">Dia</h3>
+        </div>
+        <canvas id="myChart"></canvas>
+        <button id="botao" onclick="plotaGrafico()">Iniciar</button>
+    </div>
+   
+    <script src="main.js"></script>
+</body>
+</html>
