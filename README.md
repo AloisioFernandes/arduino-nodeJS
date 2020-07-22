@@ -1,6 +1,11 @@
 # Dados do Arduino com NodeJS
  Página da web que recebe dados do monitor serial de um Arduino. O sensor LDR foi utilizado neste projeto para demonstração.
 
+ <p align="center">
+  <img align="center" src=".github/ArduinoDia.png" alt="Arduino Dia" width="800" border="0">
+  <img align="center" src=".github/ArduinoNoite.png" alt="Arduino Noite" width="800" border="0">
+</p>
+
  ## Requisitos
     Instalar o Git
     https://git-scm.com/downloads
